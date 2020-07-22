@@ -1,1 +1,1 @@
-# plannerhub.github.in
+# eventplanners.github.in
